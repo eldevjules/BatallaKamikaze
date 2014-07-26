@@ -1,4 +1,15 @@
 BatallaKamikaze
 ===============
 
-Experimento de WebRTC para lanzar objectos de mobile a una pantalla web
+K-App del equipo 1
+
+Un juego excitante y retador!
+
+Ámoooonoooosssss!!!!
+
+
+Equipazo!
+
+-Jess
+-Gio
+-Su servilleta ( jules )

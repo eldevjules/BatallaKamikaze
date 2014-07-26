@@ -1,0 +1,29 @@
+{
+  "name": "BatallaKamikaze",
+  "version": "0.0.1",
+  "homepage": "https://github.com/julioguevara/BatallaKamikaze",
+  "authors": [
+    "Julio Guevara <julio.guevara.marquez@gmail.com>"
+  ],
+  "description": "Juego en Hackaton para KamikazeLab",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "modernizr": "~2.8.2",
+    "firebase": "~1.0.17",
+    "angular": "~1.2.18",
+    "angularfire": "~0.7.1",
+    "angular-route": "~1.2.18",
+    "mobile-detect": "~0.3.0",
+    "jquery": "~2.1.1",
+    "draggabilly": "~1.1.0"
+  }
+}

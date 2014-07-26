@@ -1,0 +1,14 @@
+<h2>Home</h2>
+
+<p class="status good" ng-show-auth="login">
+    Este se muestra cuando estas logueado en el sitio
+</p>
+<p class="status" ng-show-auth="logout">
+    NO estas logueado ve a loguearte por favor!
+</p>
+
+<p class="status error" ng-show-auth="error">{{auth.error}}</p>
+
+<input ng-model="syncedValue" type="text" /> <b>{{syncedValue}}</b>
+<input ng-model="nombreDePartida" type="text" /> <b>{{nombreDePartida}}</b>
+
